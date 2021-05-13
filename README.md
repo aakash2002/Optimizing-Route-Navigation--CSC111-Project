@@ -5,3 +5,5 @@ The project discusses on how we can optimize route navigation between different 
 
 The formal report dives deeper into the project highlighting the limitations and possible solutions to the question of route optimization.
 
+Please read the formal project report for instructions on how to open and navigate through the program.
+
